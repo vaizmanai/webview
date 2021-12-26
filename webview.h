@@ -1258,15 +1258,3 @@ WEBVIEW_API void webview_return(webview_t w, const char *seq, int status,
 #endif /* WEBVIEW_HEADER */
 
 #endif /* WEBVIEW_H */
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
